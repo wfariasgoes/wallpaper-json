@@ -1,0 +1,104 @@
+{
+    "Partida": [
+        {
+            "cd_partida": "1",
+            "logoMandante": "Cruzeiro",
+            "logoVisitante": "Grêmio",
+            "mandante": "thumb_cruzeiro.png",
+            "numRodada": "1",
+            "placarMandante": "0",
+            "placarVisitante": "1",
+            "visitante": "thumb_gremio.png"
+        },
+        {
+            "cd_partida": "2",
+            "logoMandante": "EC Vitória",
+            "logoVisitante": "Flamengo",
+            "mandante": "thumb_vitoria.png",
+            "numRodada": "1",
+            "placarMandante": "2",
+            "placarVisitante": "2",
+            "visitante": "thumb_flamengo.png"
+        },
+        {
+            "cd_partida": "3",
+            "logoMandante": "Santos",
+            "logoVisitante": "Ceará SC",
+            "mandante": "thumb_santos.png",
+            "numRodada": "1",
+            "placarMandante": "2",
+            "placarVisitante": "0",
+            "visitante": "thumb_ceara.png"
+        },
+        {
+            "cd_partida": "4",
+            "logoMandante": "América-MG",
+            "logoVisitante": "Sport Recife",
+            "mandante": "thumb_america-mg.png",
+            "numRodada": "1",
+            "placarMandante": "3",
+            "placarVisitante": "0",
+            "visitante": "thumb_sport.png"
+        },
+        {
+            "cd_partida": "5",
+            "logoMandante": "Vasco da Gama",
+            "logoVisitante": "Atlético",
+            "mandante": "thumb_vasco.png",
+            "numRodada": "1",
+            "placarMandante": "2",
+            "placarVisitante": "1",
+            "visitante": "thumb_atletico-mg.png"
+        },
+        {
+            "cd_partida": "6",
+            "logoMandante": "Internacional",
+            "logoVisitante": "Bahia",
+            "mandante": "thumb_internacional.png",
+            "numRodada": "1",
+            "placarMandante": "2",
+            "placarVisitante": "0",
+            "visitante": "thumb_bahia.png"
+        },
+        {
+            "cd_partida": "7",
+            "logoMandante": "Corinthians",
+            "logoVisitante": "Fluminense",
+            "mandante": "thumb_corinthians.png",
+            "numRodada": "1",
+            "placarMandante": "2",
+            "placarVisitante": "1",
+            "visitante": "thumb_fluminense.png"
+        },
+        {
+            "cd_partida": "8",
+            "logoMandante": "Atlético-PR",
+            "logoVisitante": "Chapecoense",
+            "mandante": "thumb_atletico-pr.png",
+            "numRodada": "1",
+            "placarMandante": "5",
+            "placarVisitante": "1",
+            "visitante": "thumb_chapecoense.png"
+        },
+        {
+            "cd_partida": "9",
+            "logoMandante": "São Paulo",
+            "logoVisitante": "Paraná",
+            "mandante": "thumb_sao_paulo.png",
+            "numRodada": "1",
+            "placarMandante": "1",
+            "placarVisitante": "0",
+            "visitante": "thumb_parana.png"
+        },
+        {
+            "cd_partida": "10",
+            "logoMandante": "Botafogo",
+            "logoVisitante": "Palmeiras",
+            "mandante": "thumb_botafogo-rj.png",
+            "numRodada": "1",
+            "placarMandante": "1",
+            "placarVisitante": "1",
+            "visitante": "thumb_palmeiras.png"
+        }
+    ]
+}
